@@ -1,2 +1,2 @@
 
-<a href="https://clients.boursorama.com/feature-redirect?featureId=customer.oauth2_authorization_add&clientId=PSDFR-ACPR-16348&redirect_uri=https%3A%2F%2Fstatus-verification-pis.slimpay.com%2Fv1%2Fredirect-trustly&error_uri=https%3A%2F%2Fstatus-verification-pis.slimpay.com%2Fv1%2Fredirect-trustly&scope=aisp&state=4e233265-39a5-3e6f-a7cb-70df92a12eaf"> Click Me </a>
+<a href="https://clients.boursorama.com/feature-redirect?featureId=customer.oauth2_authorization_add&clientId=PSDFR-ACPR-16348&redirect_uri=https://status-verification-pis.slimpay.com/v1/redirect-trustly&error_uri=https://status-verification-pis.slimpay.com/v1/redirect-trustly&scope=aisp&state=3ec5a9f0-0e70-3495-8c41-198b5f7a5299"> Click Me </a>
